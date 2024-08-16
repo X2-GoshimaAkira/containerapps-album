@@ -7,7 +7,7 @@
    CONTAINER_REGISTRY:  604618fqrvqvrhrrzls.azurecr.io
    RESOURCE_GROUP_NAME: Handson01-X2-604618
    CONTAINERAPP_NAME: ctapp-demo-ui
-   API_BASE_URL: https://ctapp-demo-ui.salmonsea-8d4ccc9f.japaneast.azurecontainerapps.io
+   API_BASE_URL: https://ctapp-demo-api.salmonsea-8d4ccc9f.japaneast.azurecontainerapps.io
  jobs:
    build:
      runs-on: ubuntu-22.04
